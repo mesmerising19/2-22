@@ -1,0 +1,9 @@
+num=float(input("enter a number:"))
+if num>0:
+   print("postive number")
+else:
+   print("negitive number")
+out put
+enter a number: -99
+negitive number
+ 
